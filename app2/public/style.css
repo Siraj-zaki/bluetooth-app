@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:monospace;
+}
+
+body {
+    overflow: hidden;
+    background: black;
+}
+
+.title {
+    position: absolute;
+    text-align: center;
+    width: 100%;
+    top: 13rem;
+    color: white;
+}
+
+h2 {
+    padding: .5rem;
+}
